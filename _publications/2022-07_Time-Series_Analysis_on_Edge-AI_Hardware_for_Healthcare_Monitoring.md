@@ -3,7 +3,7 @@ title: "Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring"
 authors: "<b>Jinhai Hu</b>"
 collection: publications
 category: reports
-permalink: /publication/2022-07_Time-Series_Analysis_on_Edge-AI_Hardware_for_Healthcare_Monitoring.md
+permalink: /publication/2022-07_Time-Series_Analysis_on_Edge-AI_Hardware_for_Healthcare_Monitoring
 excerpt:
 date: 2022-07
 venue: 'Progress Report for PhD Confirmation Exercise'
