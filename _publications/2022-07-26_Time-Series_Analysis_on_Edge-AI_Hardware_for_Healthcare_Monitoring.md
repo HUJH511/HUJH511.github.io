@@ -3,11 +3,11 @@ title: "Time-Series Analysis on Edge-AI Hardware for Healthcare Monitoring"
 authors: "<b>Jinhai Hu</b>"
 collection: publications
 category: reports
-permalink: /publication/2022-07_Time-Series_Analysis_on_Edge-AI_Hardware_for_Healthcare_Monitoring
+permalink: /publication/2022-07-26_Time-Series_Analysis_on_Edge-AI_Hardware_for_Healthcare_Monitoring
 excerpt:
-date: 2022-07
+date: 2022-07-26
 venue: 'Progress Report for PhD Confirmation Exercise'
-paperurl: 'http://HUJH511.github.io\files\2022-07_QE_Report.pdf'
+paperurl: 'http://HUJH511.github.io/files/2022-07-26_QE_Report.pdf'
 citation:
 abstract: "Here is abstract"
 ---
