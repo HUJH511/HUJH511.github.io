@@ -12,9 +12,9 @@ Welcome! Here you'll find my biography, recent updates on my work, and highlight
 Jinhai Hu (胡金海)
 ======
 Scientist <br />
-_Institute of Microelectronics, Agency for Science, Technology and Research (A*STAR), Singapore_
+_Institute of Microelectronics, Agency for Science, Technology and Research (A\*STAR), Singapore_
 
-Jinhai Hu is a scientist in the Integrated Circuit Design & Systems department at the Institute of Microelectronics (IME), Agency for Science, Technology and Research (A*STAR), where he joined in Jan 2025.
+Jinhai Hu is a scientist in the Integrated Circuit Design & Systems department at the Institute of Microelectronics (IME), Agency for Science, Technology and Research (A\*STAR), where he joined in January 2025. His research focuses on the intersection of artificial intelligence, circuit design automation, and biomedical circuits and systems. Jinhai was awarded the NTU Science and Engineering Scholarship for his undergraduate studies and the A\*STAR Graduate Scholarship (AGS) for his Ph.D. studies. He received his Bachelor of Engineering (B. Eng.) with Honours (Highest Distinction) from the School of Electrical and Electronic Engineering (EEE), Nanyang Technological University (NTU), Singapore, in December 2020. He continued to pursue a Ph.D. degree at the same school from January 2021 to November 2024, under the supervision of [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105). His Ph.D. research was conducted in collaboration with IME, A\*STAR, and co-supervised by [Dr. Gao Yuan](https://www.linkedin.com/in/yuangaocc/).
 
 A data-driven personal website
 ======
