@@ -12,7 +12,7 @@ Welcome! Here you'll find my biography, recent updates on my work, and highlight
 Jinhai Hu (胡金海)
 ======
 Scientist <br />
-_Institute of Microelectronics (IME), Agency for Science, Technology and Research (A*STAR), Singapore_
+_Institute of Microelectronics, Agency for Science, Technology and Research (A*STAR), Singapore_
 
 Jinhai Hu is a scientist in the Integrated Circuit Design & Systems department at the Institute of Microelectronics (IME), Agency for Science, Technology and Research (A*STAR), where he joined in Jan 2025.
 
