@@ -6,7 +6,7 @@ category: manuscripts
 permalink: /publication/2024-06-05-Supervised_Contrastive_Learning_Framework_and_Hardware_Implementation_of_Learned_ResNet_for_Real-time_Respiratory_Sound_Classification
 excerpt: 
 date: 2024-06-05
-venue: 'IEEE Transactions on Biomedical Circuits and Systems'
+venue: 'IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)'
 slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10550005'
 citation: 

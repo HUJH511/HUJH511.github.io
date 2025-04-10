@@ -1,0 +1,15 @@
+---
+title: "Late Breaking Results: Circuit-Algorithm Co-design for Learnable Audio Analog Front-End"
+authors: "<b>Jinhai Hu</b>, Zhongyi Zhang, Cong Sheng Leow, Wang Ling Goh, Yuan Gao"
+collection: publications
+category: conferences
+permalink: /publication/2024-06-23-Late_Breaking_Results_Circuit-Algorithm_Co-design_for_Learnable_Audio_Analog_Front-End
+excerpt: 
+date: 2024-06-23
+venue: 'ACM/IEEE Design Automation Conference (DAC), 2024. <i>(Acceptance rate = 22%)</i>'
+slidesurl: 
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3649329.3663496'
+bibtexurl: 
+citation: 
+abstract: "This paper presents a circuit-algorithm co-design framework for learnable audio analog front-end (AFE) which includes an analog filterbank for feature extraction and a classifier based on Depthwise Separable Convolutional Neural Network (DSCNN). Instead of the traditional approach to design the analog filterbank and digital classifier separately, a learnable filterbank is proposed and its source-follower bandpass filter (SF-BPF) parameters are optimized together with the neural network classifier in a signal-to-noise ratio (SNR)-aware training process. A new system criterion function (L<sub>BPF</sub>) is proposed to include classification loss and filter performance into the training process. The optimized audio AFE achieves 10.6% and 11.7% reduction in BPF power and chip area, respectively. Meanwhile, this approach achieved 88.6%--94.5% accuracy for 10-keyword classification task across a wide range of input signal SNR from 5dB to 20dB, with only 16k trainable parameters."
+---
