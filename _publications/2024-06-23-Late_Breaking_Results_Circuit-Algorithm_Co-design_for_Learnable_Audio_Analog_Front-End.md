@@ -4,7 +4,7 @@ authors: "<b>Jinhai Hu</b>, Zhongyi Zhang, Cong Sheng Leow, Wang Ling Goh, Yuan 
 collection: publications
 category: conferences
 permalink: /publication/2024-06-23-Late_Breaking_Results_Circuit-Algorithm_Co-design_for_Learnable_Audio_Analog_Front-End
-note: "<i>(Acceptance rate = 22%)</i>"
+note: "<i>(Acceptance rate = 21%)</i>"
 excerpt: 
 date: 2024-06-23
 venue: 'ACM/IEEE Design Automation Conference (DAC)'
