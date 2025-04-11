@@ -1,9 +1,9 @@
 ---
-title: "Squeeze-excite Fusion based Multimodal Neural Network for Sleep Stage Classification with Flexible EEG/ECG Signal Acquisition Circuit"
+title: "Squeeze-Excite Fusion based Multimodal Neural Network for Sleep Stage Classification with Flexible EEG/ECG Signal Acquisition Circuit"
 authors: "Shuailin Tao, <b>Jinhai Hu</b>, Wang Ling Goh, Yuan Gao"
 collection: publications
 category: conferences
-permalink: /publication/2024-05-19-LSTM-based_ECG_Signal_Classification_with_Multi-level_One-hot_Encoding_for_Wearable_Applications
+permalink: /publication/2024-05-19-Squeeze-Excite_Fusion_based_Multimodal_Neural_Network_for_Sleep_Stage_Classification_with_Flexible_EEG_ECG_Signal_Acquisition_Circuit
 excerpt:
 date: 2024-05-19
 venue: 'IEEE International Symposium on Circuits and Systems (ISCAS)'
